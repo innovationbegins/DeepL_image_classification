@@ -1,2 +1,2 @@
 # DeepL_image_classification
-Image classification using Convolution Neural Network (CNN).
+Hand written Image classification using Convolution Neural Network (CNN).
